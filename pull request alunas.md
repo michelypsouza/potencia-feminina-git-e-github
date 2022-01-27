@@ -1,3 +1,5 @@
 ### usuário no github
 
-[Michely Souza](https://github.com/michelypsouza) 
+Informe seu nome e usuário do github, vamos fortalecer a nossa rede!
+
+[Michely Prudencio Souza](https://github.com/michelypsouza) 
